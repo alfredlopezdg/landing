@@ -1,0 +1,75 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tienda.com" resolutions="1x" timestamp="1594189402369">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3762195128" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="crea-tu-tienda-favicon.ico" crc="3961208669" ref="index"/>
+    <file name="bg_tienda.jpg" crc="313298013" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_santo_anuncio.svg" crc="183156782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_santo_anuncio_poster_.png" crc="33694653" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="compu.png" crc="290426156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="digitaliza_tu_negocio.png" crc="4002841934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tienda_5_minutos.png" crc="4183460836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventas_whatsapp.png" crc="277929802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_rapido.svg" crc="532449018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_rapido_poster_.png" crc="3914459029" ref="index"/>
+    <file name="ico_link.svg" crc="7608968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_link_poster_.png" crc="112634475" ref="index"/>
+    <file name="ico_asesoramiento.svg" crc="4130569364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_asesoramiento_poster_.png" crc="42205214" ref="index"/>
+    <file name="ico_soporte.svg" crc="3776392800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_soporte_poster_.png" crc="3961621161" ref="index"/>
+    <file name="exito.png" crc="11717485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_whatsapp.svg" crc="417504985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_whatsapp_poster_.png" crc="3781712480" ref="index"/>
+    <file name="precio_standar.svg" crc="457175018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="precio_standar_poster_.png" crc="439535711" ref="index"/>
+    <file name="precio_deluxe.svg" crc="243594424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="precio_deluxe_poster_.png" crc="3789744993" ref="index"/>
+    <file name="precio_basic.svg" crc="4289636115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="precio_basic_poster_.png" crc="3975518919" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3945631456" seo="true" mt="1594188850325" redirect="true"/>
+</manifest>
